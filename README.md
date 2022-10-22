@@ -1,4 +1,4 @@
-# JavaScript_Project_Beginner:Convert Human Age into Dog Years
+# JavaScript_Project_Beginner: Convert Human Age into Dog Years
 
 Javascript project for a beginner.
 
