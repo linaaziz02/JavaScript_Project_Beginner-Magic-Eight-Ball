@@ -1,13 +1,20 @@
-# JavaScript_Project_Beginner: Convert Human Age into Dog Years
+# JavaScript_Project_Beginner: Magic Eight Ball
 
 Javascript project for a beginner.
 
 Details:
-Dogs mature at a faster rate than human beings. We often say a dog’s age can be calculated in “dog years” to account for their growth compared to a human of the same age. In some ways we could say, time moves quickly for dogs — 8 years in a human’s life equates to 45 years in a dog’s life. How old would you be if you were a dog?
+You’ve learned a powerful tool in JavaScript: control flow! It’s so powerful, in fact, that it can be used to tell someone’s fortune.
 
-Here’s how you convert your age from “human years” to “dog years”:
+In this project we will build a Magic Eight Ball using control flow in JavaScript.
 
-The first two years of a dog’s life count as 10.5 dog years each.
-Each year following equates to 4 dog years.
+The user will be able to input a question, then our program will output a random fortune.
 
-Mission: Convert your age to dog years. 
+Key Concepts:
+1. An introdution to JavaScript
+2. Variables
+3. COnditionals
+
+Goals:
+1. Print console.log statements to the terminal
+2. Generate random numbers within a certain range
+3. Use a swith statement to output different responses based on the random number generated
