@@ -12,7 +12,7 @@ The user will be able to input a question, then our program will output a random
 Key Concepts:
 1. An introdution to JavaScript
 2. Variables
-3. COnditionals
+3. Conditionals
 
 Goals:
 1. Print console.log statements to the terminal
